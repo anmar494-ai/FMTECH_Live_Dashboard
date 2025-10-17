@@ -1,5 +1,6 @@
 streamlit
-streamlit-folium
 pandas
 folium
+streamlit-folium
 streamlit-autorefresh
+openpyxl
